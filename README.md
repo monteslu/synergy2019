@@ -10,6 +10,8 @@
 
 ## Chirpers
 
+### Internet of Things (IoT) routing
+
 [https://chirpers.com/browser](https://chirpers.com/browser)
 
 ![chirpers](chirpers.jpg)
@@ -27,6 +29,8 @@
 * wheels
 * Wires
 
+![lolin32](lolin32_oled.jpg)
+
 ## Web Bluetooth
 
 ![screenshot](BLE_diagram.png)
@@ -41,17 +45,16 @@
 ## Bot Assembly
 
 * connect wheels
-* connect fin
-* connect breadboard bracket
 * wiring
+* secure motor driver and microcontroller
 * customize your bot!
 * connect battery pack
 
 
 ## Wiring
 
-![pins](pins.jpg)
 ![driver](driver.jpg)
+![pins](pins.jpg)
 
 
 
