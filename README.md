@@ -47,8 +47,10 @@
 * connect wheels
 * wiring
 * secure motor driver and microcontroller
-* customize your bot!
+* CUSTOMIZE YOUR BOT!
 * connect battery pack
+* test your bot
+* BATTLE!
 
 
 ## Wiring
